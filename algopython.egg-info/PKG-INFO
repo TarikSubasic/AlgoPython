@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: algopython
+Version: 0.1
+Summary: Python package for controlling robot via serial commands
+Author: Tarik Subasic
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary

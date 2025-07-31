@@ -1,0 +1,7 @@
+setup.py
+algopython/__init__.py
+algopython/algopython.py
+algopython.egg-info/PKG-INFO
+algopython.egg-info/SOURCES.txt
+algopython.egg-info/dependency_links.txt
+algopython.egg-info/top_level.txt
